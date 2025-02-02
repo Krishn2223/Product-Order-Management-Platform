@@ -55,7 +55,6 @@ Backend Setup
 Clone the repository (if not done already):
 
 
-git clone https://github.com/your-username/online-product-order-management.git
 cd online-product-order-management/backend
 Install dependencies:
 
