@@ -35,7 +35,7 @@ This is an **Online Product & Order Management Platform** developed using **Reac
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/online-product-order-management.git
+   git clone https://github.com/Krishn2223/Product-Order-Management-Platform.git
    cd online-product-order-management
 Install dependencies:
 
