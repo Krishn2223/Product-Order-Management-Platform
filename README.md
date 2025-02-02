@@ -74,4 +74,4 @@ You need to create a .env file for the backend to store sensitive data:
 
 DATABASE_URL=your-database-connection-url
 JWT_SECRET=your-jwt-secret-key
-# Product-Order-Management-Platform
+
